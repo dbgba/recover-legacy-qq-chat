@@ -1,4 +1,0 @@
-interface:
-  display_name: "Recover Legacy QQ Chat"
-  short_description: "Recover and clean legacy QQ MsgEx chat backups"
-  default_prompt: "Use $recover-legacy-qq-chat to inspect and recover an authorized legacy QQ .bak chat backup."
